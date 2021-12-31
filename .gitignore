@@ -1,6 +1,5 @@
 *.swp
 .DS_Store
 /_site/
-Gemfile.lock
 .bundle
 **/vendor/bundle
